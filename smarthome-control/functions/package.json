@@ -2,7 +2,7 @@
   "name": "smarthome-control",
   "description": "Codes for controlling devices through the Google Assistant By Sid",
   "engines": {
-    "node": "8"
+    "node": "10"
   },
   "dependencies": {
     "actions-on-google": "^2.12.0",
